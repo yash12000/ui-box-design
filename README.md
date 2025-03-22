@@ -5,12 +5,15 @@ A simple React component that renders a geometric pattern of red and black squar
 📌 Features
 
 ✔️ Responsive geometric design
+
 ✔️ Red and black square pattern
+
 ✔️ Styled using CSS for precise positioning
 
 📌 Installation & Setup
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/yash12000/ui-box-design.git
 
 cd ui-box-design
