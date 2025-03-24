@@ -3,13 +3,13 @@ import "./BoxDesign.css";
 
 const BoxDesign = () => {
   return (
-    <div className="container">
-      <div className="box">
-        <div className="red-box top-left"></div>
-        <div className="red-box bottom-left"></div>
-        <div className="red-box center"></div>
-        <div className="black-box top-right"></div>
-        <div className="black-box bottom-right"></div>
+    <div class="container">
+      <div class="box">
+        <div class="red-box top-left"></div>
+        <div class="red-box bottom-left"></div>
+        <div class="black-box top-right"></div>
+        <div class="black-box bottom-right"></div>
+        <div class="center"></div>
       </div>
     </div>
   );
